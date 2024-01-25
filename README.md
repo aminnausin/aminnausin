@@ -6,8 +6,10 @@
 - 🔭 I’m currently working on MediaServer
 - 🌱 I’m currently learning React
 
-![](https://raw.githubusercontent.com/aminnausin/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/aminnausin/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
+<img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img align='center' src="https://github.com/aminnausin/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <!--
 **aminnausin/aminnausin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
