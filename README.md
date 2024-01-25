@@ -1,5 +1,4 @@
-### 👋
-<h3>I'm Nausin</h3>
+### 👋 I'm Nausin
 <h6>(formally Amin)</h6>
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
