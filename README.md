@@ -4,7 +4,7 @@
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
 - 🔭 I’m currently working on MediaServer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Laravel, Figma and PostgreSQL
 
 
 
