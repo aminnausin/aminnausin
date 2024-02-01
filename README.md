@@ -1,11 +1,11 @@
 ### 👋 I'm Nausin
-<h6>(formally Amin)</h6>
+<h6>(Amin if you want to be formal about it)</h6>
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
 - 🔭 I’m currently working on MediaServer
 - 🌱 I’m currently learning React, Laravel, Figma and PostgreSQL
-
+- ⚡ I'm currently planning StopTrac, a high performance transit application for my daily commute.
 
 
 <img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
