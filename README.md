@@ -3,7 +3,7 @@
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
-- 🔭 I’m currently working on MediaServer
+- 📷 I’m currently working on MediaServer
 - 🌱 I’m currently learning React, Laravel, Figma and PostgreSQL
 - ⚡ I'm currently planning StopTrac
 
@@ -15,7 +15,7 @@
 **aminnausin/aminnausin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🔭 I’m currently working on
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
