@@ -3,7 +3,7 @@
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
-- 📷 I’m currently working on MediaServer
+- 📷 I’m currently working on MediaServer and TMU Marketplace
 - 🌱 I’m currently learning React, Laravel, Figma and PostgreSQL
 - ⚡ I'm currently planning StopTrac
 
