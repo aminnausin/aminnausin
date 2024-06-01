@@ -5,7 +5,7 @@
 
 - 📷 I’m currently working on MediaServer and <a href="https://tmu-marketplace-atoz.onrender.com/">TMU Marketplace</a>
 - 🌱 I’m currently learning React, Vue + Laravel, Figma and PostgreSQL
-- ⚡ I'm currently planning ?
+- ⚡ I need to make ? [ Online photo album | better faster transit app | finance tracker to replace my excel sheet ]
 
 
 <img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
