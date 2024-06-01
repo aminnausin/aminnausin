@@ -4,8 +4,8 @@
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
 - 📷 I’m currently working on MediaServer and <a href="https://tmu-marketplace-atoz.onrender.com/">TMU Marketplace</a>
-- 🌱 I’m currently learning React, Laravel, Figma and PostgreSQL
-- ⚡ I'm currently planning StopTrac
+- 🌱 I’m currently learning React, Vue + Laravel, Figma and PostgreSQL
+- ⚡ I'm currently planning ?
 
 
 <img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
