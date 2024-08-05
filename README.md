@@ -3,8 +3,8 @@
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
-- 📷 I’m currently working on MediaServer and <a href="https://tmu-marketplace-atoz.onrender.com/">TMU Marketplace</a>
-- 🌱 I’m currently learning React, Vue + Laravel, Figma and PostgreSQL
+- 📷 I’m currently working on MediaServer and recently finished <a href="https://tmu-marketplace-atoz.onrender.com/">TMU Marketplace</a>
+- 🌱 I’m currently learning Vue + Laravel, Figma and PostgreSQL
 - ⚡ I need to make ? [ Online photo album | better faster transit app | finance tracker to replace my excel sheet ]
 
 
