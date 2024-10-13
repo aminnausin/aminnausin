@@ -1,5 +1,5 @@
 ### 👋 I'm Nausin
-<h6>(Amin if you want to be formal about it)</h6>
+<h6>(Or Amin)</h6>
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
