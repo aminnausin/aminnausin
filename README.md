@@ -4,7 +4,7 @@
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
 - 📷 I’m currently working on MediaServer and <a href="https://github.com/aminnausin/tmu-webring/">tmu-webring.</a> I recently finished <a href="https://tmu-marketplace.eldoss.me/">TMU Marketplace.</a>
-- 🌱 I’m currently learning Vue + Laravel, Docker, Linux and PostgreSQL.
+- 🌱 I’m currently learning Vue + Laravel, Go, Docker, Linux and PostgreSQL.
 - ⚡ I need to make ? [ x-platform music player | better faster transit app | finance spending tracker | anilist but with games and va ].
 - 🔭 Want to learn / work with Kotlin/Flutter and .Net (C#). Want to learn Go, (C++ and Unreal), Unity and Svelte 5 for fun.
 
