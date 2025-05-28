@@ -3,16 +3,24 @@
 
 <h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
 
-- 📷 I’m currently working on MediaServer and <a href="https://github.com/aminnausin/tmu-webring/">tmu-webring.</a> I recently finished <a href="https://tmu-marketplace.eldoss.me/">TMU Marketplace.</a>
+- 💼 Previous Software Developer @ Environment and Climate Change Canada (ECCC)
+- 📷 I’m currently working on [MediaServer](https://github.com/aminnausin/mediaServer/) and [tmu-webring](https://github.com/aminnausin/tmu-webring/). I recently finished [TMU Marketplace](https://tmu-marketplace.eldoss.me/).
 - 🌱 I’m currently learning Vue + Laravel, Go, Docker, Linux and PostgreSQL.
-- ⚡ I need to make ? [ x-platform music player | better faster transit app | finance spending tracker | anilist but with games and va ].
-- 🔭 Want to learn / work with Kotlin/Flutter and .Net (C#). Want to learn Go, (C++ and Unreal), Unity and Svelte 5 for fun.
+- 🔭 Want to learn / work with Kotlin/Flutter and .Net (C#). Want to learn Go, and return to Unity.
+
+<!--- ⚡ I need to make ? [ x-platform music player | better faster transit app | finance spending tracker | anilist but with games and va ].-->
 
 <img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img align='center' src="https://github.com/aminnausin/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 <img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img align='center' src="https://github.com/aminnausin/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/amin-nausin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amin-nausin/" height="30" width="40" /></a>
+</p>
 <!--
+
 **aminnausin/aminnausin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
