@@ -15,12 +15,14 @@
 <img align='left' src="https://github.com/aminnausin/snapshot/blob/main/generated/overview.svg#gh-light-mode-only" />
 <img align='center' src="https://github.com/aminnausin/snapshot/blob/main/generated/languages.svg#gh-light-mode-only" />
 
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/amin-nausin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amin-nausin/" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=aminnausin&style=pixel" height="0" alt="Profile View Counter"/>
+  
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aminnausin&style=pixel" height="0" alt="Profile View Counter"/>
 <!--
 
 **aminnausin/aminnausin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
