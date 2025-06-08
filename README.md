@@ -10,10 +10,10 @@
 
 <!--- ⚡ I need to make ? [ x-platform music player | better faster transit app | finance spending tracker | anilist but with games and va ].-->
 
-<img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img align='center' src="https://github.com/aminnausin/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img align='left' src="https://github.com/aminnausin/stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img align='center' src="https://github.com/aminnausin/stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img align='left' src="https://github.com/aminnausin/snapshot/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img align='center' src="https://github.com/aminnausin/snapshot/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img align='left' src="https://github.com/aminnausin/snapshot/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img align='center' src="https://github.com/aminnausin/snapshot/blob/master/generated/languages.svg#gh-light-mode-only" />
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
