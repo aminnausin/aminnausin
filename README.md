@@ -1,7 +1,7 @@
 ### 👋 I'm Nausin
-<h6>(Or Amin)</h6>
+###### (or Amin)
 
-<h4>I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h4>
+#### I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a>
 
 - 💼 Previous Software Developer @ Environment and Climate Change Canada (ECCC)
 - 📷 I’m currently working on [MediaServer](https://github.com/aminnausin/mediaServer/) and [tmu-webring](https://github.com/aminnausin/tmu-webring/). I recently finished [TMU Marketplace](https://tmu-marketplace.eldoss.me/).
@@ -16,11 +16,10 @@
 <img align='center' src="https://github.com/aminnausin/snapshot/blob/main/generated/languages.svg#gh-light-mode-only" />
 
 
-<h4 align="left">Connect with me:</h4>
+#### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/amin-nausin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amin-nausin/" height="30" width="40" /></a>
 <img src="https://komarev.com/ghpvc/?username=aminnausin&style=pixel" height="0" alt="Profile View Counter"/>
-  
 </p>
 
 <!--
