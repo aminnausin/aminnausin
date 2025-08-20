@@ -1,4 +1,4 @@
-### 👋 I'm Nausin
+### 👋 I'm [Nausin](https://nausin.me/)
 ###### (or Amin)
 
 #### I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a>
