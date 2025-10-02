@@ -4,9 +4,9 @@
 #### I study Computer Science at <a href="https://tmucscu.com/">Toronto Metropolitan University</a>
 
 - 💼 Previous Software Developer @ Environment and Climate Change Canada (ECCC)
-- 📷 I’m currently working on [MediaServer](https://github.com/aminnausin/mediaServer/) and [tmu-webring](https://github.com/aminnausin/tmu-webring/). I recently finished [TMU Marketplace](https://tmu-marketplace.eldoss.me/).
+- 📷 I’m currently working on [MediaServer](https://github.com/aminnausin/mediaServer/), [tmu-webring](https://github.com/aminnausin/tmu-webring/) and ARC Resume Builder. I recently finished [TMU Marketplace](https://tmu-marketplace.eldoss.me/).
 - 🌱 I’m currently learning Vue + Laravel, Go, Docker, Linux and PostgreSQL.
-- 🔭 Want to learn / work with Kotlin/Flutter and .Net (C#). Want to learn Go, and return to Unity.
+- 🔭 Want to learn / work with Kotlin/Flutter and .Net (C#) and Go. I would love to return to Unity.
 
 <!--- ⚡ I need to make ? [ x-platform music player | better faster transit app | finance spending tracker | anilist but with games and va ].-->
 
